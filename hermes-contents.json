@@ -1,0 +1,1234 @@
+[
+  {
+    "name": ".dockerignore",
+    "path": ".dockerignore",
+    "sha": "0e4a88fd2fa7cfc465a65da819f10e29817a2d51",
+    "size": 202,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/.dockerignore?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/.dockerignore",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/0e4a88fd2fa7cfc465a65da819f10e29817a2d51",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/.dockerignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/.dockerignore?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/0e4a88fd2fa7cfc465a65da819f10e29817a2d51",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/.dockerignore"
+    }
+  },
+  {
+    "name": ".env.example",
+    "path": ".env.example",
+    "sha": "066e93f7c99b4687cc458c80027f8350f63dd6c2",
+    "size": 18632,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/.env.example?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/.env.example",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/066e93f7c99b4687cc458c80027f8350f63dd6c2",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/.env.example",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/.env.example?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/066e93f7c99b4687cc458c80027f8350f63dd6c2",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/.env.example"
+    }
+  },
+  {
+    "name": ".envrc",
+    "path": ".envrc",
+    "sha": "45c59523cbe47f60b76fee32376d8f1e51a62736",
+    "size": 193,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/.envrc?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/.envrc",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/45c59523cbe47f60b76fee32376d8f1e51a62736",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/.envrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/.envrc?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/45c59523cbe47f60b76fee32376d8f1e51a62736",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/.envrc"
+    }
+  },
+  {
+    "name": ".gitattributes",
+    "path": ".gitattributes",
+    "sha": "8726216891f0eb33aa431e09755f749984493c51",
+    "size": 120,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/.gitattributes?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/.gitattributes",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/8726216891f0eb33aa431e09755f749984493c51",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/.gitattributes",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/.gitattributes?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/8726216891f0eb33aa431e09755f749984493c51",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/.gitattributes"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "bc17f9fc9002b7a404c7451b30a75169426ca1d3",
+    "size": 0,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/.github?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/tree/main/.github",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/bc17f9fc9002b7a404c7451b30a75169426ca1d3",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/bc17f9fc9002b7a404c7451b30a75169426ca1d3",
+      "html": "https://github.com/NousResearch/hermes-agent/tree/main/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "72f3bd17f7dbf60208972e4c6ce5a51987394051",
+    "size": 1213,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/72f3bd17f7dbf60208972e4c6ce5a51987394051",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/72f3bd17f7dbf60208972e4c6ce5a51987394051",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": ".gitmodules",
+    "path": ".gitmodules",
+    "sha": "76580d6e8e502785c45fb7e86160aa092232bbbf",
+    "size": 106,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/.gitmodules?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/.gitmodules",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/76580d6e8e502785c45fb7e86160aa092232bbbf",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/.gitmodules",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/.gitmodules?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/76580d6e8e502785c45fb7e86160aa092232bbbf",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/.gitmodules"
+    }
+  },
+  {
+    "name": ".mailmap",
+    "path": ".mailmap",
+    "sha": "3f093fb5abe71dc88dfde3533841d99c7016d6ac",
+    "size": 5743,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/.mailmap?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/.mailmap",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/3f093fb5abe71dc88dfde3533841d99c7016d6ac",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/.mailmap",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/.mailmap?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/3f093fb5abe71dc88dfde3533841d99c7016d6ac",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/.mailmap"
+    }
+  },
+  {
+    "name": ".plans",
+    "path": ".plans",
+    "sha": "c513a88cb22773eeb659e9ebbfd981c1225a3bd5",
+    "size": 0,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/.plans?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/tree/main/.plans",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/c513a88cb22773eeb659e9ebbfd981c1225a3bd5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/.plans?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/c513a88cb22773eeb659e9ebbfd981c1225a3bd5",
+      "html": "https://github.com/NousResearch/hermes-agent/tree/main/.plans"
+    }
+  },
+  {
+    "name": "AGENTS.md",
+    "path": "AGENTS.md",
+    "sha": "05a6742d4189e56379db778b40bea4c0a3225173",
+    "size": 35514,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/AGENTS.md?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/AGENTS.md",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/05a6742d4189e56379db778b40bea4c0a3225173",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/AGENTS.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/AGENTS.md?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/05a6742d4189e56379db778b40bea4c0a3225173",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/AGENTS.md"
+    }
+  },
+  {
+    "name": "CONTRIBUTING.md",
+    "path": "CONTRIBUTING.md",
+    "sha": "146cb1161bdeb0df246958ce39111e53aeb179e4",
+    "size": 26966,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/CONTRIBUTING.md?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/CONTRIBUTING.md",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/146cb1161bdeb0df246958ce39111e53aeb179e4",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/CONTRIBUTING.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/CONTRIBUTING.md?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/146cb1161bdeb0df246958ce39111e53aeb179e4",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/CONTRIBUTING.md"
+    }
+  },
+  {
+    "name": "Dockerfile",
+    "path": "Dockerfile",
+    "sha": "4ab1d3804dae0bcb03dd626094fde48611993eec",
+    "size": 2686,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/Dockerfile?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/Dockerfile",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/4ab1d3804dae0bcb03dd626094fde48611993eec",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/Dockerfile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/Dockerfile?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/4ab1d3804dae0bcb03dd626094fde48611993eec",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/Dockerfile"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "75410e73319c72cd3e991a501c5455eb78f38375",
+    "size": 1070,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/LICENSE?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/LICENSE",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/75410e73319c72cd3e991a501c5455eb78f38375",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/LICENSE?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/75410e73319c72cd3e991a501c5455eb78f38375",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "MANIFEST.in",
+    "path": "MANIFEST.in",
+    "sha": "876aeeb7d1f9d810c580c7a91a96bb41ab5a186f",
+    "size": 87,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/MANIFEST.in?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/MANIFEST.in",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/876aeeb7d1f9d810c580c7a91a96bb41ab5a186f",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/MANIFEST.in",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/MANIFEST.in?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/876aeeb7d1f9d810c580c7a91a96bb41ab5a186f",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/MANIFEST.in"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "11390fb2b20accbe5082e0e2d3754a3fd3d9bccb",
+    "size": 11290,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/README.md?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/11390fb2b20accbe5082e0e2d3754a3fd3d9bccb",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/11390fb2b20accbe5082e0e2d3754a3fd3d9bccb",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/README.md"
+    }
+  },
+  {
+    "name": "RELEASE_v0.10.0.md",
+    "path": "RELEASE_v0.10.0.md",
+    "sha": "1bfb1015685cf457a14be3c2fddab2cdeeb066bb",
+    "size": 1768,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/RELEASE_v0.10.0.md?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/RELEASE_v0.10.0.md",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/1bfb1015685cf457a14be3c2fddab2cdeeb066bb",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/RELEASE_v0.10.0.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/RELEASE_v0.10.0.md?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/1bfb1015685cf457a14be3c2fddab2cdeeb066bb",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/RELEASE_v0.10.0.md"
+    }
+  },
+  {
+    "name": "RELEASE_v0.11.0.md",
+    "path": "RELEASE_v0.11.0.md",
+    "sha": "ed25f5a14dc56ed7a8c4f303afd8f1ecf5ca0c99",
+    "size": 43437,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/RELEASE_v0.11.0.md?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/RELEASE_v0.11.0.md",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/ed25f5a14dc56ed7a8c4f303afd8f1ecf5ca0c99",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/RELEASE_v0.11.0.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/RELEASE_v0.11.0.md?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/ed25f5a14dc56ed7a8c4f303afd8f1ecf5ca0c99",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/RELEASE_v0.11.0.md"
+    }
+  },
+  {
+    "name": "RELEASE_v0.2.0.md",
+    "path": "RELEASE_v0.2.0.md",
+    "sha": "01b6421a52e56063edb8df7c6bc8c20905e0c2ae",
+    "size": 32385,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/RELEASE_v0.2.0.md?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/RELEASE_v0.2.0.md",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/01b6421a52e56063edb8df7c6bc8c20905e0c2ae",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/RELEASE_v0.2.0.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/RELEASE_v0.2.0.md?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/01b6421a52e56063edb8df7c6bc8c20905e0c2ae",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/RELEASE_v0.2.0.md"
+    }
+  },
+  {
+    "name": "RELEASE_v0.3.0.md",
+    "path": "RELEASE_v0.3.0.md",
+    "sha": "92f9276bcc6d6b1f7a9f8eaf36bb2cc00cd7b6c7",
+    "size": 35724,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/RELEASE_v0.3.0.md?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/RELEASE_v0.3.0.md",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/92f9276bcc6d6b1f7a9f8eaf36bb2cc00cd7b6c7",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/RELEASE_v0.3.0.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/RELEASE_v0.3.0.md?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/92f9276bcc6d6b1f7a9f8eaf36bb2cc00cd7b6c7",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/RELEASE_v0.3.0.md"
+    }
+  },
+  {
+    "name": "RELEASE_v0.4.0.md",
+    "path": "RELEASE_v0.4.0.md",
+    "sha": "e2ddf21d6d679532ac498bdf77aac0ede5e7eded",
+    "size": 45448,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/RELEASE_v0.4.0.md?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/RELEASE_v0.4.0.md",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/e2ddf21d6d679532ac498bdf77aac0ede5e7eded",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/RELEASE_v0.4.0.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/RELEASE_v0.4.0.md?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/e2ddf21d6d679532ac498bdf77aac0ede5e7eded",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/RELEASE_v0.4.0.md"
+    }
+  },
+  {
+    "name": "RELEASE_v0.5.0.md",
+    "path": "RELEASE_v0.5.0.md",
+    "sha": "1f8ce98665b3a17e94cff37da06b8d022f54c228",
+    "size": 32765,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/RELEASE_v0.5.0.md?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/RELEASE_v0.5.0.md",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/1f8ce98665b3a17e94cff37da06b8d022f54c228",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/RELEASE_v0.5.0.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/RELEASE_v0.5.0.md?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/1f8ce98665b3a17e94cff37da06b8d022f54c228",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/RELEASE_v0.5.0.md"
+    }
+  },
+  {
+    "name": "RELEASE_v0.6.0.md",
+    "path": "RELEASE_v0.6.0.md",
+    "sha": "5bef7c6c510aeeef16b5d29e28802955d7acfcc7",
+    "size": 26137,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/RELEASE_v0.6.0.md?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/RELEASE_v0.6.0.md",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/5bef7c6c510aeeef16b5d29e28802955d7acfcc7",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/RELEASE_v0.6.0.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/RELEASE_v0.6.0.md?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/5bef7c6c510aeeef16b5d29e28802955d7acfcc7",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/RELEASE_v0.6.0.md"
+    }
+  },
+  {
+    "name": "RELEASE_v0.7.0.md",
+    "path": "RELEASE_v0.7.0.md",
+    "sha": "7833bc1151b59ed70cf80064ca9090aa9be29a69",
+    "size": 33995,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/RELEASE_v0.7.0.md?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/RELEASE_v0.7.0.md",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/7833bc1151b59ed70cf80064ca9090aa9be29a69",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/RELEASE_v0.7.0.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/RELEASE_v0.7.0.md?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/7833bc1151b59ed70cf80064ca9090aa9be29a69",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/RELEASE_v0.7.0.md"
+    }
+  },
+  {
+    "name": "RELEASE_v0.8.0.md",
+    "path": "RELEASE_v0.8.0.md",
+    "sha": "57c8b05aba48e9f56c25dac9386825a574e4e459",
+    "size": 36083,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/RELEASE_v0.8.0.md?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/RELEASE_v0.8.0.md",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/57c8b05aba48e9f56c25dac9386825a574e4e459",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/RELEASE_v0.8.0.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/RELEASE_v0.8.0.md?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/57c8b05aba48e9f56c25dac9386825a574e4e459",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/RELEASE_v0.8.0.md"
+    }
+  },
+  {
+    "name": "RELEASE_v0.9.0.md",
+    "path": "RELEASE_v0.9.0.md",
+    "sha": "15d5b84b4023b0647a3803fa361b3cceef189412",
+    "size": 32472,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/RELEASE_v0.9.0.md?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/RELEASE_v0.9.0.md",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/15d5b84b4023b0647a3803fa361b3cceef189412",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/RELEASE_v0.9.0.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/RELEASE_v0.9.0.md?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/15d5b84b4023b0647a3803fa361b3cceef189412",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/RELEASE_v0.9.0.md"
+    }
+  },
+  {
+    "name": "SECURITY.md",
+    "path": "SECURITY.md",
+    "sha": "3cede2885e612c5ce37f80a0879e1bb7b49a6540",
+    "size": 7167,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/SECURITY.md?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/SECURITY.md",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/3cede2885e612c5ce37f80a0879e1bb7b49a6540",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/SECURITY.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/SECURITY.md?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/3cede2885e612c5ce37f80a0879e1bb7b49a6540",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/SECURITY.md"
+    }
+  },
+  {
+    "name": "acp_adapter",
+    "path": "acp_adapter",
+    "sha": "f1af9ed2ff6dda2de1aaa31a4a95cc81eeed4333",
+    "size": 0,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/acp_adapter?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/tree/main/acp_adapter",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/f1af9ed2ff6dda2de1aaa31a4a95cc81eeed4333",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/acp_adapter?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/f1af9ed2ff6dda2de1aaa31a4a95cc81eeed4333",
+      "html": "https://github.com/NousResearch/hermes-agent/tree/main/acp_adapter"
+    }
+  },
+  {
+    "name": "acp_registry",
+    "path": "acp_registry",
+    "sha": "ba3442185547da369839703d039f72be48d46633",
+    "size": 0,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/acp_registry?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/tree/main/acp_registry",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/ba3442185547da369839703d039f72be48d46633",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/acp_registry?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/ba3442185547da369839703d039f72be48d46633",
+      "html": "https://github.com/NousResearch/hermes-agent/tree/main/acp_registry"
+    }
+  },
+  {
+    "name": "agent",
+    "path": "agent",
+    "sha": "d455d200fbf59e81aa282ab05ca1e776fcebbc29",
+    "size": 0,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/agent?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/tree/main/agent",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/d455d200fbf59e81aa282ab05ca1e776fcebbc29",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/agent?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/d455d200fbf59e81aa282ab05ca1e776fcebbc29",
+      "html": "https://github.com/NousResearch/hermes-agent/tree/main/agent"
+    }
+  },
+  {
+    "name": "assets",
+    "path": "assets",
+    "sha": "3ae08c3c058bfcd96c80014785595c93d3bff2ef",
+    "size": 0,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/assets?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/tree/main/assets",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/3ae08c3c058bfcd96c80014785595c93d3bff2ef",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/assets?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/3ae08c3c058bfcd96c80014785595c93d3bff2ef",
+      "html": "https://github.com/NousResearch/hermes-agent/tree/main/assets"
+    }
+  },
+  {
+    "name": "batch_runner.py",
+    "path": "batch_runner.py",
+    "sha": "f3aaefa3d9a8b717f4bd1f2f13abcf8f38c395b4",
+    "size": 55432,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/batch_runner.py?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/batch_runner.py",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/f3aaefa3d9a8b717f4bd1f2f13abcf8f38c395b4",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/batch_runner.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/batch_runner.py?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/f3aaefa3d9a8b717f4bd1f2f13abcf8f38c395b4",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/batch_runner.py"
+    }
+  },
+  {
+    "name": "cli-config.yaml.example",
+    "path": "cli-config.yaml.example",
+    "sha": "90d98490c5a1e90646c67318b458f49f4470fc09",
+    "size": 50740,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/cli-config.yaml.example?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/cli-config.yaml.example",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/90d98490c5a1e90646c67318b458f49f4470fc09",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/cli-config.yaml.example",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/cli-config.yaml.example?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/90d98490c5a1e90646c67318b458f49f4470fc09",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/cli-config.yaml.example"
+    }
+  },
+  {
+    "name": "cli.py",
+    "path": "cli.py",
+    "sha": "9f3e8964c477dc00bb38ffb2516cad77805fb3e3",
+    "size": 501111,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/cli.py?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/cli.py",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/9f3e8964c477dc00bb38ffb2516cad77805fb3e3",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/cli.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/cli.py?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/9f3e8964c477dc00bb38ffb2516cad77805fb3e3",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/cli.py"
+    }
+  },
+  {
+    "name": "constraints-termux.txt",
+    "path": "constraints-termux.txt",
+    "sha": "dcc1becf64abfcc3fb92723176bbb0b76b50030b",
+    "size": 407,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/constraints-termux.txt?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/constraints-termux.txt",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/dcc1becf64abfcc3fb92723176bbb0b76b50030b",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/constraints-termux.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/constraints-termux.txt?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/dcc1becf64abfcc3fb92723176bbb0b76b50030b",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/constraints-termux.txt"
+    }
+  },
+  {
+    "name": "cron",
+    "path": "cron",
+    "sha": "001c3efe4c02561b369bc042c1c24209ce60cd54",
+    "size": 0,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/cron?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/tree/main/cron",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/001c3efe4c02561b369bc042c1c24209ce60cd54",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/cron?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/001c3efe4c02561b369bc042c1c24209ce60cd54",
+      "html": "https://github.com/NousResearch/hermes-agent/tree/main/cron"
+    }
+  },
+  {
+    "name": "datagen-config-examples",
+    "path": "datagen-config-examples",
+    "sha": "91c238a4507e52ec68cd58429f89524f0a6c6c79",
+    "size": 0,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/datagen-config-examples?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/tree/main/datagen-config-examples",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/91c238a4507e52ec68cd58429f89524f0a6c6c79",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/datagen-config-examples?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/91c238a4507e52ec68cd58429f89524f0a6c6c79",
+      "html": "https://github.com/NousResearch/hermes-agent/tree/main/datagen-config-examples"
+    }
+  },
+  {
+    "name": "docker-compose.yml",
+    "path": "docker-compose.yml",
+    "sha": "a0fe1a100ac77af3346484a8acfee862b0585de3",
+    "size": 1816,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/docker-compose.yml?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/docker-compose.yml",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/a0fe1a100ac77af3346484a8acfee862b0585de3",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/docker-compose.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/docker-compose.yml?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/a0fe1a100ac77af3346484a8acfee862b0585de3",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/docker-compose.yml"
+    }
+  },
+  {
+    "name": "docker",
+    "path": "docker",
+    "sha": "ca4c5493727091b90a68fce69744179392300b47",
+    "size": 0,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/docker?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/tree/main/docker",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/ca4c5493727091b90a68fce69744179392300b47",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/docker?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/ca4c5493727091b90a68fce69744179392300b47",
+      "html": "https://github.com/NousResearch/hermes-agent/tree/main/docker"
+    }
+  },
+  {
+    "name": "environments",
+    "path": "environments",
+    "sha": "2cd232005f41e0a76a50e7d234cfffbcbedb1369",
+    "size": 0,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/environments?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/tree/main/environments",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/2cd232005f41e0a76a50e7d234cfffbcbedb1369",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/environments?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/2cd232005f41e0a76a50e7d234cfffbcbedb1369",
+      "html": "https://github.com/NousResearch/hermes-agent/tree/main/environments"
+    }
+  },
+  {
+    "name": "flake.lock",
+    "path": "flake.lock",
+    "sha": "305b79526e03f687910a7467493892af78cd6de0",
+    "size": 5199,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/flake.lock?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/flake.lock",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/305b79526e03f687910a7467493892af78cd6de0",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/flake.lock",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/flake.lock?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/305b79526e03f687910a7467493892af78cd6de0",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/flake.lock"
+    }
+  },
+  {
+    "name": "flake.nix",
+    "path": "flake.nix",
+    "sha": "fcb5eaa619922497eed9654f472c89283c4b4ea2",
+    "size": 1079,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/flake.nix?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/flake.nix",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/fcb5eaa619922497eed9654f472c89283c4b4ea2",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/flake.nix",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/flake.nix?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/fcb5eaa619922497eed9654f472c89283c4b4ea2",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/flake.nix"
+    }
+  },
+  {
+    "name": "gateway",
+    "path": "gateway",
+    "sha": "ceff0c780e15125f1aba42e45bbfa9ee07c9c651",
+    "size": 0,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/gateway?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/tree/main/gateway",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/ceff0c780e15125f1aba42e45bbfa9ee07c9c651",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/gateway?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/ceff0c780e15125f1aba42e45bbfa9ee07c9c651",
+      "html": "https://github.com/NousResearch/hermes-agent/tree/main/gateway"
+    }
+  },
+  {
+    "name": "hermes",
+    "path": "hermes",
+    "sha": "3172ca91ca2bbb3d16f6fbc4000f387bf4f4610c",
+    "size": 262,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/hermes?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/hermes",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/3172ca91ca2bbb3d16f6fbc4000f387bf4f4610c",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/hermes",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/hermes?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/3172ca91ca2bbb3d16f6fbc4000f387bf4f4610c",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/hermes"
+    }
+  },
+  {
+    "name": "hermes-already-has-routines.md",
+    "path": "hermes-already-has-routines.md",
+    "sha": "fd4c04d679b4c245bda16bcb436820548e29cc59",
+    "size": 6306,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/hermes-already-has-routines.md?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/hermes-already-has-routines.md",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/fd4c04d679b4c245bda16bcb436820548e29cc59",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/hermes-already-has-routines.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/hermes-already-has-routines.md?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/fd4c04d679b4c245bda16bcb436820548e29cc59",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/hermes-already-has-routines.md"
+    }
+  },
+  {
+    "name": "hermes_cli",
+    "path": "hermes_cli",
+    "sha": "9e519eb97c12dab6931099b4b1e7208a3c5407da",
+    "size": 0,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/hermes_cli?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/tree/main/hermes_cli",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/9e519eb97c12dab6931099b4b1e7208a3c5407da",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/hermes_cli?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/9e519eb97c12dab6931099b4b1e7208a3c5407da",
+      "html": "https://github.com/NousResearch/hermes-agent/tree/main/hermes_cli"
+    }
+  },
+  {
+    "name": "hermes_constants.py",
+    "path": "hermes_constants.py",
+    "sha": "35dbf86ab229545b15effa9b57fe09ca5977a367",
+    "size": 10400,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/hermes_constants.py?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/hermes_constants.py",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/35dbf86ab229545b15effa9b57fe09ca5977a367",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/hermes_constants.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/hermes_constants.py?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/35dbf86ab229545b15effa9b57fe09ca5977a367",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/hermes_constants.py"
+    }
+  },
+  {
+    "name": "hermes_logging.py",
+    "path": "hermes_logging.py",
+    "sha": "0ebc450a22e4b92db93e6807eed115fb78ffe10f",
+    "size": 13620,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/hermes_logging.py?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/hermes_logging.py",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/0ebc450a22e4b92db93e6807eed115fb78ffe10f",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/hermes_logging.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/hermes_logging.py?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/0ebc450a22e4b92db93e6807eed115fb78ffe10f",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/hermes_logging.py"
+    }
+  },
+  {
+    "name": "hermes_state.py",
+    "path": "hermes_state.py",
+    "sha": "8ae8ae6e6138f4c0c8210f2d02f7d0c4c37cb7a4",
+    "size": 69763,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/hermes_state.py?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/hermes_state.py",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/8ae8ae6e6138f4c0c8210f2d02f7d0c4c37cb7a4",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/hermes_state.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/hermes_state.py?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/8ae8ae6e6138f4c0c8210f2d02f7d0c4c37cb7a4",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/hermes_state.py"
+    }
+  },
+  {
+    "name": "hermes_time.py",
+    "path": "hermes_time.py",
+    "sha": "9f172d28ffb1400e1b43e505bc8c3212fc03a515",
+    "size": 3209,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/hermes_time.py?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/hermes_time.py",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/9f172d28ffb1400e1b43e505bc8c3212fc03a515",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/hermes_time.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/hermes_time.py?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/9f172d28ffb1400e1b43e505bc8c3212fc03a515",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/hermes_time.py"
+    }
+  },
+  {
+    "name": "mcp_serve.py",
+    "path": "mcp_serve.py",
+    "sha": "e0aeb706191141f58eb2efb7650da83e508a9487",
+    "size": 30701,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/mcp_serve.py?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/mcp_serve.py",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/e0aeb706191141f58eb2efb7650da83e508a9487",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/mcp_serve.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/mcp_serve.py?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/e0aeb706191141f58eb2efb7650da83e508a9487",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/mcp_serve.py"
+    }
+  },
+  {
+    "name": "mini_swe_runner.py",
+    "path": "mini_swe_runner.py",
+    "sha": "c4345150450e1de593a5d74d99443dd01e931e2f",
+    "size": 28449,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/mini_swe_runner.py?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/mini_swe_runner.py",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/c4345150450e1de593a5d74d99443dd01e931e2f",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/mini_swe_runner.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/mini_swe_runner.py?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/c4345150450e1de593a5d74d99443dd01e931e2f",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/mini_swe_runner.py"
+    }
+  },
+  {
+    "name": "model_tools.py",
+    "path": "model_tools.py",
+    "sha": "539b0e13b4a7ec646160affa9f45eb27bb39e009",
+    "size": 27764,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/model_tools.py?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/model_tools.py",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/539b0e13b4a7ec646160affa9f45eb27bb39e009",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/model_tools.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/model_tools.py?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/539b0e13b4a7ec646160affa9f45eb27bb39e009",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/model_tools.py"
+    }
+  },
+  {
+    "name": "nix",
+    "path": "nix",
+    "sha": "9c1e3ab83242e405c8e593e58f71fcb4f92e50c1",
+    "size": 0,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/nix?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/tree/main/nix",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/9c1e3ab83242e405c8e593e58f71fcb4f92e50c1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/nix?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/9c1e3ab83242e405c8e593e58f71fcb4f92e50c1",
+      "html": "https://github.com/NousResearch/hermes-agent/tree/main/nix"
+    }
+  },
+  {
+    "name": "optional-skills",
+    "path": "optional-skills",
+    "sha": "72ba105b67772d86462b387bed7b07c9f336c2e2",
+    "size": 0,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/optional-skills?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/72ba105b67772d86462b387bed7b07c9f336c2e2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/optional-skills?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/72ba105b67772d86462b387bed7b07c9f336c2e2",
+      "html": "https://github.com/NousResearch/hermes-agent/tree/main/optional-skills"
+    }
+  },
+  {
+    "name": "package-lock.json",
+    "path": "package-lock.json",
+    "sha": "8309e3b7a96d060b40bc3e6c1cdf5047f5b4ef14",
+    "size": 94861,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/package-lock.json?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/package-lock.json",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/8309e3b7a96d060b40bc3e6c1cdf5047f5b4ef14",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/package-lock.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/package-lock.json?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/8309e3b7a96d060b40bc3e6c1cdf5047f5b4ef14",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/package-lock.json"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "8fcf5cea6969285fa2eb7fa0dfef8d098c353842",
+    "size": 783,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/package.json?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/package.json",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/8fcf5cea6969285fa2eb7fa0dfef8d098c353842",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/package.json?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/8fcf5cea6969285fa2eb7fa0dfef8d098c353842",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/package.json"
+    }
+  },
+  {
+    "name": "packaging",
+    "path": "packaging",
+    "sha": "0bca66ab254244d41e17c5090c68e3fca5945779",
+    "size": 0,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/packaging?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/tree/main/packaging",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/0bca66ab254244d41e17c5090c68e3fca5945779",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/packaging?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/0bca66ab254244d41e17c5090c68e3fca5945779",
+      "html": "https://github.com/NousResearch/hermes-agent/tree/main/packaging"
+    }
+  },
+  {
+    "name": "plans",
+    "path": "plans",
+    "sha": "c276e1717831d2d380f4c487101f989642349f4a",
+    "size": 0,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/plans?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/tree/main/plans",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/c276e1717831d2d380f4c487101f989642349f4a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/plans?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/c276e1717831d2d380f4c487101f989642349f4a",
+      "html": "https://github.com/NousResearch/hermes-agent/tree/main/plans"
+    }
+  },
+  {
+    "name": "plugins",
+    "path": "plugins",
+    "sha": "76d7e97fc4e7130f122002e4a28f17558b242140",
+    "size": 0,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/plugins?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/tree/main/plugins",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/76d7e97fc4e7130f122002e4a28f17558b242140",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/plugins?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/76d7e97fc4e7130f122002e4a28f17558b242140",
+      "html": "https://github.com/NousResearch/hermes-agent/tree/main/plugins"
+    }
+  },
+  {
+    "name": "pyproject.toml",
+    "path": "pyproject.toml",
+    "sha": "4b7e8816ac8be55c8250af88b053963cc3ec3f11",
+    "size": 6043,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/pyproject.toml?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/pyproject.toml",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/4b7e8816ac8be55c8250af88b053963cc3ec3f11",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/pyproject.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/pyproject.toml?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/4b7e8816ac8be55c8250af88b053963cc3ec3f11",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/pyproject.toml"
+    }
+  },
+  {
+    "name": "rl_cli.py",
+    "path": "rl_cli.py",
+    "sha": "03bf015c262fe2b6645c6ef056d70c378b9a3dc3",
+    "size": 16286,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/rl_cli.py?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/rl_cli.py",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/03bf015c262fe2b6645c6ef056d70c378b9a3dc3",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/rl_cli.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/rl_cli.py?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/03bf015c262fe2b6645c6ef056d70c378b9a3dc3",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/rl_cli.py"
+    }
+  },
+  {
+    "name": "run_agent.py",
+    "path": "run_agent.py",
+    "sha": "7b23b5b41caabae0f62bb3a1fdda871205631201",
+    "size": 656014,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/run_agent.py?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/run_agent.py",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/7b23b5b41caabae0f62bb3a1fdda871205631201",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/run_agent.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/run_agent.py?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/7b23b5b41caabae0f62bb3a1fdda871205631201",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/run_agent.py"
+    }
+  },
+  {
+    "name": "scripts",
+    "path": "scripts",
+    "sha": "62a4144105cd0267fa603e9d6a5bd2e5ed30c2ed",
+    "size": 0,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/scripts?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/tree/main/scripts",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/62a4144105cd0267fa603e9d6a5bd2e5ed30c2ed",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/scripts?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/62a4144105cd0267fa603e9d6a5bd2e5ed30c2ed",
+      "html": "https://github.com/NousResearch/hermes-agent/tree/main/scripts"
+    }
+  },
+  {
+    "name": "setup-hermes.sh",
+    "path": "setup-hermes.sh",
+    "sha": "5d0f2928ab47bca18cfb7b9130d816332b3b6426",
+    "size": 14753,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/setup-hermes.sh?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/setup-hermes.sh",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/5d0f2928ab47bca18cfb7b9130d816332b3b6426",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/setup-hermes.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/setup-hermes.sh?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/5d0f2928ab47bca18cfb7b9130d816332b3b6426",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/setup-hermes.sh"
+    }
+  },
+  {
+    "name": "skills",
+    "path": "skills",
+    "sha": "b289ef17010ba33d4746d8cf85aa75be617facc5",
+    "size": 0,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/skills?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/tree/main/skills",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/b289ef17010ba33d4746d8cf85aa75be617facc5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/skills?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/b289ef17010ba33d4746d8cf85aa75be617facc5",
+      "html": "https://github.com/NousResearch/hermes-agent/tree/main/skills"
+    }
+  },
+  {
+    "name": "tests",
+    "path": "tests",
+    "sha": "d37e32ba68eaa39caad453b16efb945a1ecb682f",
+    "size": 0,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/tests?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/tree/main/tests",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/d37e32ba68eaa39caad453b16efb945a1ecb682f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/tests?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/d37e32ba68eaa39caad453b16efb945a1ecb682f",
+      "html": "https://github.com/NousResearch/hermes-agent/tree/main/tests"
+    }
+  },
+  {
+    "name": "tinker-atropos",
+    "path": "tinker-atropos",
+    "sha": "65f084ee8054a5d02aeac76e24ed60388511c82b",
+    "size": 0,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/tinker-atropos?ref=main",
+    "html_url": "https://github.com/nousresearch/tinker-atropos/tree/65f084ee8054a5d02aeac76e24ed60388511c82b",
+    "git_url": "https://api.github.com/repos/nousresearch/tinker-atropos/git/trees/65f084ee8054a5d02aeac76e24ed60388511c82b",
+    "download_url": null,
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/tinker-atropos?ref=main",
+      "git": "https://api.github.com/repos/nousresearch/tinker-atropos/git/trees/65f084ee8054a5d02aeac76e24ed60388511c82b",
+      "html": "https://github.com/nousresearch/tinker-atropos/tree/65f084ee8054a5d02aeac76e24ed60388511c82b"
+    }
+  },
+  {
+    "name": "tools",
+    "path": "tools",
+    "sha": "eeb5f292b050447b2bcddc9c53b5a4bdccecb9aa",
+    "size": 0,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/tools?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/tree/main/tools",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/eeb5f292b050447b2bcddc9c53b5a4bdccecb9aa",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/tools?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/eeb5f292b050447b2bcddc9c53b5a4bdccecb9aa",
+      "html": "https://github.com/NousResearch/hermes-agent/tree/main/tools"
+    }
+  },
+  {
+    "name": "toolset_distributions.py",
+    "path": "toolset_distributions.py",
+    "sha": "b2a5657ab8fc1fc160914cfe2e02f832179d795b",
+    "size": 12332,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/toolset_distributions.py?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/toolset_distributions.py",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/b2a5657ab8fc1fc160914cfe2e02f832179d795b",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/toolset_distributions.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/toolset_distributions.py?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/b2a5657ab8fc1fc160914cfe2e02f832179d795b",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/toolset_distributions.py"
+    }
+  },
+  {
+    "name": "toolsets.py",
+    "path": "toolsets.py",
+    "sha": "1c113afe60ae222e4bf47d34dac4c4ee46091b7c",
+    "size": 24716,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/toolsets.py?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/toolsets.py",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/1c113afe60ae222e4bf47d34dac4c4ee46091b7c",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/toolsets.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/toolsets.py?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/1c113afe60ae222e4bf47d34dac4c4ee46091b7c",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/toolsets.py"
+    }
+  },
+  {
+    "name": "trajectory_compressor.py",
+    "path": "trajectory_compressor.py",
+    "sha": "ff2dcc6266f282e451d46dd06ef844edba963bf1",
+    "size": 65305,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/trajectory_compressor.py?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/trajectory_compressor.py",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/ff2dcc6266f282e451d46dd06ef844edba963bf1",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/trajectory_compressor.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/trajectory_compressor.py?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/ff2dcc6266f282e451d46dd06ef844edba963bf1",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/trajectory_compressor.py"
+    }
+  },
+  {
+    "name": "tui_gateway",
+    "path": "tui_gateway",
+    "sha": "fbbd26e21d4b0690431ef72f703dbb8133555e15",
+    "size": 0,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/tui_gateway?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/tree/main/tui_gateway",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/fbbd26e21d4b0690431ef72f703dbb8133555e15",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/tui_gateway?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/fbbd26e21d4b0690431ef72f703dbb8133555e15",
+      "html": "https://github.com/NousResearch/hermes-agent/tree/main/tui_gateway"
+    }
+  },
+  {
+    "name": "ui-tui",
+    "path": "ui-tui",
+    "sha": "6d1ed07f01ea693cde0c9938e5477c9320f445aa",
+    "size": 0,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/ui-tui?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/tree/main/ui-tui",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/6d1ed07f01ea693cde0c9938e5477c9320f445aa",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/ui-tui?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/6d1ed07f01ea693cde0c9938e5477c9320f445aa",
+      "html": "https://github.com/NousResearch/hermes-agent/tree/main/ui-tui"
+    }
+  },
+  {
+    "name": "utils.py",
+    "path": "utils.py",
+    "sha": "f3d38006d1455909f6edb5106d7138b9dd841b68",
+    "size": 9301,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/utils.py?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/utils.py",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/f3d38006d1455909f6edb5106d7138b9dd841b68",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/utils.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/utils.py?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/f3d38006d1455909f6edb5106d7138b9dd841b68",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/utils.py"
+    }
+  },
+  {
+    "name": "uv.lock",
+    "path": "uv.lock",
+    "sha": "dfb2f786b07a412026ec57687eaba6e91477f985",
+    "size": 1048678,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/uv.lock?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/uv.lock",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/dfb2f786b07a412026ec57687eaba6e91477f985",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/uv.lock",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/uv.lock?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/dfb2f786b07a412026ec57687eaba6e91477f985",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/uv.lock"
+    }
+  },
+  {
+    "name": "web",
+    "path": "web",
+    "sha": "c2baa0c62a79cf1cf8036af28ba193be1ba8951c",
+    "size": 0,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/web?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/tree/main/web",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/c2baa0c62a79cf1cf8036af28ba193be1ba8951c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/web?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/c2baa0c62a79cf1cf8036af28ba193be1ba8951c",
+      "html": "https://github.com/NousResearch/hermes-agent/tree/main/web"
+    }
+  },
+  {
+    "name": "website",
+    "path": "website",
+    "sha": "692ca202ca30c7e0c0aa6d940b4e9bf0d4fde0bd",
+    "size": 0,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/website?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/tree/main/website",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/692ca202ca30c7e0c0aa6d940b4e9bf0d4fde0bd",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/website?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/trees/692ca202ca30c7e0c0aa6d940b4e9bf0d4fde0bd",
+      "html": "https://github.com/NousResearch/hermes-agent/tree/main/website"
+    }
+  }
+]

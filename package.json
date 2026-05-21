@@ -1,0 +1,24 @@
+{
+  "name": "acp-registry",
+  "version": "1.0.0",
+  "description": "https://agentclientprotocol.com/registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tao-io/registry.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tao-io/registry/issues"
+  },
+  "homepage": "https://github.com/tao-io/registry#readme",
+  "devDependencies": {
+    "ajv-cli": "^5.0.0",
+    "ajv-formats": "^3.0.1"
+  }
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "name": "__init__.py",
+    "path": "acp_adapter/__init__.py",
+    "sha": "b58a27b6018f0e60cfe6dd26f300082f8c1b6e82",
+    "size": 67,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/acp_adapter/__init__.py?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/acp_adapter/__init__.py",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/b58a27b6018f0e60cfe6dd26f300082f8c1b6e82",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/acp_adapter/__init__.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/acp_adapter/__init__.py?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/b58a27b6018f0e60cfe6dd26f300082f8c1b6e82",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/acp_adapter/__init__.py"
+    }
+  },
+  {
+    "name": "__main__.py",
+    "path": "acp_adapter/__main__.py",
+    "sha": "a6ccd09973578ba2400eff5a24ed98a75beb3cbc",
+    "size": 99,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/acp_adapter/__main__.py?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/acp_adapter/__main__.py",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/a6ccd09973578ba2400eff5a24ed98a75beb3cbc",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/acp_adapter/__main__.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/acp_adapter/__main__.py?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/a6ccd09973578ba2400eff5a24ed98a75beb3cbc",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/acp_adapter/__main__.py"
+    }
+  },
+  {
+    "name": "auth.py",
+    "path": "acp_adapter/auth.py",
+    "sha": "a33b5a93938e8e0bdff7656ddfe8dcf8b440b980",
+    "size": 831,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/acp_adapter/auth.py?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/acp_adapter/auth.py",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/a33b5a93938e8e0bdff7656ddfe8dcf8b440b980",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/acp_adapter/auth.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/acp_adapter/auth.py?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/a33b5a93938e8e0bdff7656ddfe8dcf8b440b980",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/acp_adapter/auth.py"
+    }
+  },
+  {
+    "name": "entry.py",
+    "path": "acp_adapter/entry.py",
+    "sha": "3089f78c27e05084c758d47cafc8882a55a0416d",
+    "size": 4258,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/acp_adapter/entry.py?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/acp_adapter/entry.py",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/3089f78c27e05084c758d47cafc8882a55a0416d",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/acp_adapter/entry.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/acp_adapter/entry.py?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/3089f78c27e05084c758d47cafc8882a55a0416d",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/acp_adapter/entry.py"
+    }
+  },
+  {
+    "name": "events.py",
+    "path": "acp_adapter/events.py",
+    "sha": "1257f902ebbbf51c05fd3d6e2d6ac7b72d8af3d9",
+    "size": 6483,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/acp_adapter/events.py?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/acp_adapter/events.py",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/1257f902ebbbf51c05fd3d6e2d6ac7b72d8af3d9",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/acp_adapter/events.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/acp_adapter/events.py?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/1257f902ebbbf51c05fd3d6e2d6ac7b72d8af3d9",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/acp_adapter/events.py"
+    }
+  },
+  {
+    "name": "permissions.py",
+    "path": "acp_adapter/permissions.py",
+    "sha": "c2e1a598269b42cdd8bf8f83d990a59365bf0a65",
+    "size": 2581,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/acp_adapter/permissions.py?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/acp_adapter/permissions.py",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/c2e1a598269b42cdd8bf8f83d990a59365bf0a65",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/acp_adapter/permissions.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/acp_adapter/permissions.py?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/c2e1a598269b42cdd8bf8f83d990a59365bf0a65",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/acp_adapter/permissions.py"
+    }
+  },
+  {
+    "name": "server.py",
+    "path": "acp_adapter/server.py",
+    "sha": "612748d56885c4564e32b16dc84b2551b8013d33",
+    "size": 36798,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/acp_adapter/server.py?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/acp_adapter/server.py",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/612748d56885c4564e32b16dc84b2551b8013d33",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/acp_adapter/server.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/acp_adapter/server.py?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/612748d56885c4564e32b16dc84b2551b8013d33",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/acp_adapter/server.py"
+    }
+  },
+  {
+    "name": "session.py",
+    "path": "acp_adapter/session.py",
+    "sha": "72457300261cb4a1b0c7d6239a6210eda903f4db",
+    "size": 22344,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/acp_adapter/session.py?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/acp_adapter/session.py",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/72457300261cb4a1b0c7d6239a6210eda903f4db",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/acp_adapter/session.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/acp_adapter/session.py?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/72457300261cb4a1b0c7d6239a6210eda903f4db",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/acp_adapter/session.py"
+    }
+  },
+  {
+    "name": "tools.py",
+    "path": "acp_adapter/tools.py",
+    "sha": "067652106e16b254adf7bc13e5b5e7497d36f79f",
+    "size": 12976,
+    "url": "https://api.github.com/repos/NousResearch/hermes-agent/contents/acp_adapter/tools.py?ref=main",
+    "html_url": "https://github.com/NousResearch/hermes-agent/blob/main/acp_adapter/tools.py",
+    "git_url": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/067652106e16b254adf7bc13e5b5e7497d36f79f",
+    "download_url": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/acp_adapter/tools.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/NousResearch/hermes-agent/contents/acp_adapter/tools.py?ref=main",
+      "git": "https://api.github.com/repos/NousResearch/hermes-agent/git/blobs/067652106e16b254adf7bc13e5b5e7497d36f79f",
+      "html": "https://github.com/NousResearch/hermes-agent/blob/main/acp_adapter/tools.py"
+    }
+  }
+]
